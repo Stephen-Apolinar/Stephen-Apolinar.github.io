@@ -7,13 +7,17 @@ body, html {
     font: 400 15px/1.8 "Lato", sans-serif;
     color: #777;
 }
+
+hr {
+    border: #777777 1px solid;
+}
 .info {
     color:#ddd;
     background-color:#282E34;
     text-align:center;
     padding:50px 80px;
     text-align: justify;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5 {
@@ -32,22 +36,22 @@ body, html {
 
 .bgimg-2 {
     background-image: url("parallax2.jpg");
-    min-height: 400px;
+    min-height: 450px;
 }
 
 .bgimg-3 {
     background-image: url("java-bg.jpg");
-    min-height: 400px;
+    min-height: 450px;
 }
 
 .bgimg-4 {
     background-image: url("city copy.jpg");
-    min-height: 400px;
+    min-height: 450px;
 }
 
 .bgimg-5 {
     background-image: url("parallax1.jpg");
-    min-height: 400px;
+    min-height: 450px;
 }
 .about-me {
     color: #777;
