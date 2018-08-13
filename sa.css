@@ -13,9 +13,10 @@ body, html {
     text-align:center;
     padding:50px 80px;
     text-align: justify;
+    font-size: 20px;
 }
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5 {
     position: relative;
     opacity: 0.75;
     background-attachment: fixed;
@@ -35,12 +36,17 @@ body, html {
 }
 
 .bgimg-3 {
-    background-image: url("parallax1.jpg");
+    background-image: url("java-bg.jpg");
     min-height: 400px;
 }
 
 .bgimg-4 {
     background-image: url("city copy.jpg");
+    min-height: 400px;
+}
+
+.bgimg-5 {
+    background-image: url("parallax1.jpg");
     min-height: 400px;
 }
 .about-me {
